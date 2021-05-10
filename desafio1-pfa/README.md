@@ -48,6 +48,6 @@ mysql <br>
 nginx <br>
 
 # 💻 Link das imagens no dockerhub
-https://hub.docker.com/repository/docker/robsoni/pfa-mysql-d1
-https://hub.docker.com/repository/docker/robsoni/pfa-app-d1
-https://hub.docker.com/repository/docker/robsoni/pfa-ngix-d1
+https://hub.docker.com/repository/docker/robsoni/pfa-mysql-d1 <br>
+https://hub.docker.com/repository/docker/robsoni/pfa-app-d1 <br>
+https://hub.docker.com/repository/docker/robsoni/pfa-ngix-d1 <br>
