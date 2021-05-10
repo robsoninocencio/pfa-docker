@@ -43,6 +43,11 @@ http://localhost:8080
 ```
 
 # 💻 Tecnolgias utilizadas
-node.js
-mysql
-nginx
+node.js <br>
+mysql <br>
+nginx <br>
+
+# 💻 Link das imagens no dockerhub
+https://hub.docker.com/repository/docker/robsoni/pfa-mysql-d1
+https://hub.docker.com/repository/docker/robsoni/pfa-app-d1
+https://hub.docker.com/repository/docker/robsoni/pfa-ngix-d1
