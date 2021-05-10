@@ -22,3 +22,6 @@ docker run -d --rm --network=pfa-network --name nginx-proxy-reverso -p 8080:80 r
 # docker run -d --rm --network pfa-network --name teste -p 3000:3000 robsoni/pfa-app-d1
 
 docker ps
+
+# Clone ou faça um fork do repositório e acesse a pagina do desafio1 e execute:
+# ./run.sh
